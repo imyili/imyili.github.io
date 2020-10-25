@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/10/15/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<a id="more"></a>
+<h2 id="Quick-Start">Quick Start</h2>
+<h3 id="Create-a-new-post">Create a new post</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server">Run server</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files">Generate static files</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+<div class="note default"><p>default 提示块标签</p>
+</div>
+<div class="note primary no-icon"><p>//可使用语法 no-icon去掉小图标<br>
+primary 提示块标签</p>
+</div>
+<div class="note success"><p>success 提示块标签</p>
+</div>
+<div class="note info"><p>info 提示块标签</p>
+</div>
+<div class="note warning"><p>warning 提示块标签</p>
+</div>
+<div class="note danger"><p>danger 提示块标签</p>
+</div>]]></content>
+  </entry>
+  <entry>
+    <title>【机器学习】初啃西瓜书–00资料收集</title>
+    <url>/2020/10/22/%E3%80%90%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E3%80%91%E5%88%9D%E5%95%83%E8%A5%BF%E7%93%9C%E4%B9%A6%E2%80%9300%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/</url>
+    <content><![CDATA[<p><font color=#999AAA size=3 >“西瓜书”是研究种西瓜的书吗？还是研究吃西瓜的书呢？(°ー°〃)<br>
+“西瓜书”是研究机器学习的书，书的封面满是西瓜、书中举例多用西瓜所以称作西瓜书(・∀・(・∀・(・∀・*)<br>
+在学习之前先整理一些资料以免之后忘记</font></p>
+<a id="more"></a>
+<hr>
+<h1>西瓜书</h1>
+<p>《机器学习》由南京大学周志华教授编写，由清华大学出版社于2016年出版，内容上尽可能涵盖机器学习各方面基础知识，是公认绝佳的机器学习的入门书籍。（电子版链接忘了保存(ˉ▽ˉ；)…）</p>
+<h1>西瓜书章节</h1>
+<p>全书共16章，大致分为3个部分：</p>
+<ul>
+<li>第一部分（1~3章）：介绍机器学习的基础知识</li>
+<li>第二部分（4~10章）：讨论一下经典而常用的机器学习方法</li>
+<li>第三部分（11~16章）：关于进阶知识</li>
+</ul>
+<p>全书目录</p>
+<ul>
+<li>第1章 绪论</li>
+<li>第2章 模型评估与选择</li>
+<li>第3章 线性模型</li>
+<li>第4章 决策树</li>
+<li>第5章 神经网络</li>
+<li>第6章 支持向量机</li>
+<li>第7章 贝叶斯分类器</li>
+<li>第8章 集成学习</li>
+<li>第9章 聚类</li>
+<li>第10章 降维与度量学习</li>
+<li>第11章 特征选择与稀疏学习</li>
+<li>第12章 计算学习理论</li>
+<li>第13章 半监督学习</li>
+<li>第14章 概率图模型</li>
+<li>第15章 规则学习</li>
+<li>第16章 强化学习</li>
+</ul>
+<h1>辅助资料</h1>
+<h2 id="南瓜书">南瓜书</h2>
+<p>西瓜书中数学公式推导较为复杂，开源组织Datawhale将书中公式进行了整理和解释，即《pumpkin-book》南瓜书<br>
+南瓜书GitHub项目链接：</p>
+<blockquote>
+<p><a href="https://github.com/datawhalechina/pumpkin-book">https://github.com/datawhalechina/pumpkin-book</a></p>
+</blockquote>
+<p>南瓜书在线阅读地址：</p>
+<blockquote>
+<p><a href="https://datawhalechina.github.io/pumpkin-book/">https://datawhalechina.github.io/pumpkin-book/</a></p>
+</blockquote>
+<h2 id="b站啃书视频">b站啃书视频</h2>
+<p>Bilibili视频网站有多位视频上传者解读书籍，其中有<strong>致敬大神</strong>up主发布西瓜书分享，视频链接：</p>
+<blockquote>
+<p><a href="https://www.bilibili.com/video/BV17J411C7zZ">https://www.bilibili.com/video/BV17J411C7zZ</a></p>
+</blockquote>
+<h2 id="精炼笔记">精炼笔记</h2>
+<p>作者是来自深圳大学的vay-keen，他将其整理的完整笔记分析到GitHub上。共17份.md文档，集合图片与公式，清晰明了。笔记地址：</p>
+<blockquote>
+<p><a href="https://github.com/Vay-keen/Machine-learning-learning-notes">https://github.com/Vay-keen/Machine-learning-learning-notes</a></p>
+</blockquote>
+<h2 id="课后习题答案">课后习题答案</h2>
+<p>博客园中有用户整理了CSDN里Snoopy_Yuan用户对于课后习题的解析文章链接。第一个版本是其他用户，已失效，第二个版本缺少后几章答案</p>
+<blockquote>
+<p><a href="https://www.cnblogs.com/tsingke/p/7233399.html">https://www.cnblogs.com/tsingke/p/7233399.html</a></p>
+</blockquote>
+<h2 id="其他机器学习书籍">其他机器学习书籍</h2>
+<ul>
+<li>机器学习实战</li>
+<li>巴拉巴拉…忘了 之后再写</li>
+</ul>
+]]></content>
+      <categories>
+        <category>机器学习</category>
+      </categories>
+      <tags>
+        <tag>机器学习</tag>
+        <tag>西瓜书</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【机器学习】初啃西瓜书–01绪论</title>
+    <url>/2020/10/23/%E3%80%90%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E3%80%91%E5%88%9D%E5%95%83%E8%A5%BF%E7%93%9C%E4%B9%A6%E2%80%9301%E7%BB%AA%E8%AE%BA/</url>
+    <content><![CDATA[<p><font color=#999AAA size=3 >《机器学习》（周志华）西瓜书的学习记录其一<br>
+机器器学习中的基本概念<br>
+</font></p>
+<a id="more"></a>
+<hr>
+<h1>1.1基本概念</h1>
+<p>机器学习：致力于研究如何通过计算的手段，利用经验来改善系统自身的性能。主要内容是关于在计算机上从数据中产生模型的算法，即“学习算法”。<br>
+<font color=#999AAA size=3 >数据通过学习算法形成模型，通过模型预测结果</font><br>
+模型：泛指从数据中学得的结果，指全局性结果（如一棵决策树）<br>
+模式：指局部性结果（如一条规则）</p>
+<h1>1.2基本术语</h1>
+<ul>
+<li>数据集：一组记录的集合。</li>
+<li>样本（示例）：每一条记录关于一个事件或对象的描述。</li>
+<li>属性（特征）：反映事件或对象在某一方面的表现或性质的事项。</li>
+<li>属性值：属性上的取值。</li>
+<li>样本空间（属性空间/输入空间）：属性张成的空间。</li>
+<li>特征向量：把每个属性当作一个坐标轴，则可张成一个n维空间，每一个记录对应一个坐标位置，对应一个坐标向量，因此把一个示例成为特征向量。</li>
+</ul>
+<p>用<strong>D = { x<sub>1</sub>, x<sub>2</sub>, …, x<sub>m</sub> }</strong> 表示包含m个示例的<strong>数据集</strong>，每个实例由d个属性描述 ，则每个示例 <strong>x<sub>i</sub> = (x<sub>i1</sub>, x<sub>i2</sub>,  …, x<sub>id</sub> )</strong> 是d维样本空间X中的一个<strong>向量</strong>，x<sub>i</sub>∈X，其中x<sub>ij</sub>是x<sub>i</sub>在第j个属性上的<strong>属性值</strong>，d称为样本x<sub>i</sub>的R  <strong>维数</strong>。</p>
+<p>从数据中学得模型的过程称为“<strong>学习</strong>”或“<strong>训练</strong>”。<br>
+<em>强调文本</em> <em>强调文本</em></p>
+<p><strong>加粗文本</strong> <strong>加粗文本</strong></p>
+<p><mark>标记文本</mark></p>
+<p><s>删除文本</s></p>
+<blockquote>
+<p>引用文本</p>
+</blockquote>
+<p>H<sub>2</sub>O is是液体。</p>
+<p>2<sup>10</sup> 运算结果是 1024。</p>
+<ul>
+<li>项目
+<ul>
+<li>项目
+<ul>
+<li>项目</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ol>
+<li>项目1</li>
+<li>项目2</li>
+<li>项目3</li>
+</ol>
+<ul>
+<li>[ ] 计划任务</li>
+<li>[x] 完成任务<br>
+下面展示一些 <code>内联代码片</code>。</li>
+</ul>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#x2F;&#x2F; A code block</span><br><span class="line">var foo &#x3D; &#39;bar&#39;;</span><br></pre></td></tr></table></figure>
+<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="comment">// An highlighted block</span></span><br><span class="line"><span class="keyword">var</span> foo = <span class="string">&#x27;bar&#x27;</span>;</span><br></pre></td></tr></table></figure>
+<table>
+<thead>
+<tr>
+<th>项目</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>电脑</td>
+<td>$1600</td>
+</tr>
+<tr>
+<td>手机</td>
+<td>$12</td>
+</tr>
+<tr>
+<td>导管</td>
+<td>$1</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Column 1</th>
+<th style="text-align:right">Column 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">centered 文本居中</td>
+<td style="text-align:right">right-aligned 文本居右</td>
+</tr>
+</tbody>
+</table>
+<p>一个具有注脚的文本。<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></p>
+<dl>
+<dt>Authors</dt>
+<dd>John</dd>
+<dd>Luke<br>
+Gamma公式展示 $\Gamma(n) = (n-1)!\quad\forall<br>
+n\in\mathbb N$ 是通过 Euler integral</dd>
+</dl>
+<p>$$<br>
+\Gamma(z) = \int_0^\infty t<sup>{z-1}e</sup>{-t}dt,.<br>
+$$</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">gantt</span><br><span class="line">        dateFormat  YYYY-MM-DD</span><br><span class="line">        title Adding GANTT diagram functionality to mermaid</span><br><span class="line">        section 现有任务</span><br><span class="line">        已完成               :done,    des1, 2014-01-06,2014-01-08</span><br><span class="line">        进行中               :active,  des2, 2014-01-09, 3d</span><br><span class="line">        计划中               :         des3, after des2, 5d</span><br></pre></td></tr></table></figure>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>注脚的解释<br>
+Markdown<br>
+:  Text-to-HTML conversion tool <a href="#fnref1" class="footnote-backref">↩︎</a> <a href="#fnref1:1" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+]]></content>
+      <categories>
+        <category>机器学习</category>
+      </categories>
+      <tags>
+        <tag>机器学习</tag>
+        <tag>西瓜书</tag>
+      </tags>
+  </entry>
+</search>
